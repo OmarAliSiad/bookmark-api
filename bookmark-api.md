@@ -256,7 +256,7 @@ Bookmark with id YOUR_ID deleted successfully
 
 ## 🛠️ Quick Postman Workflow
 
-1. **Start the server** → `npm run start:dev`
+1. **Start the server** → `npm run dev`
 2. **Create a bookmark** → `POST /books` with a JSON body
 3. **Copy the `id`** from the response
 4. **Get it** → `GET /books`
