@@ -259,11 +259,10 @@ Bookmark with id YOUR_ID deleted successfully
 1. **Start the server** → `npm run dev`
 2. **Create a bookmark** → `POST /books` with a JSON body
 3. **Copy the `id`** from the response
-4. **Get it** → `GET /books`
+4. **Get All** → `GET /books`
 5. **Get it** → `GET /books/{id}`
 6. **Update it** → `PATCH /books/{id}` with updated fields
 7. **Delete it** → `DELETE /books/{id}`
-8. **List all** → `GET /books`
 
 ---
 
